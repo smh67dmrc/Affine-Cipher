@@ -10,7 +10,7 @@
 * (ters_a) a degerinin modüler tersini ifade eder.
 * Dikkat edilmesi gereken en önemli nokta n sayısı ile a anahtar değerinin aralarında asal olmasıdır. Eğer aralarında asal olmazsa doğru sonuçlar üretilmez.
 
-###Encryption Örneği
+### Encryption Örneği
 
 ###### "affine" kelimesini adım adım şifreleyelim.
 ###### a = 5 olsun.
@@ -51,7 +51,7 @@
 
 ###### Şifreli metin = "cbbqpw"	
 
-###Decryption Örneği
+### Decryption Örneği
 
 ###### "affine" kelimesini adım adım deşifreleyelim.
 ###### a = 5 olsun.
